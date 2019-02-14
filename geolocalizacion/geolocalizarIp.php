@@ -1,4 +1,7 @@
 <?php
+
+// Sacado de aqui --> http://php.net/manual/es/book.geoip.php
+
 require_once("geoip2.phar");
 use GeoIp2\Database\Reader;
 // City DB
